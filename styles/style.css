@@ -26,7 +26,7 @@
 
 .header__logo-image {
     height: 148px;
-    height: 105px;
+    width: 105px;
 }
 
 .header__address {
@@ -77,12 +77,12 @@
     word-spacing: -25px;
 }
 
-.aligned-text_center{
+.aligned-text_center {
     text-align: center;
     padding-top: 14px;
 }
 
-.aligned-text_right{
+.aligned-text_right {
     text-align: end;
     padding-top: 5px;
 }
