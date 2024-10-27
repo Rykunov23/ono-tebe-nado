@@ -3,13 +3,13 @@
     grid-template-columns: 1fr max-content 1fr;
     justify-items: center;
     align-items: center;
-    padding: 92px 24px 92px 24px;
+    padding: 90px 50px;
 }
 
 .header__links-list {
     display: flex;
     gap: 33px;
-    padding-right: 15px;
+    padding-right: 38px;
     font-size: 18px;
     list-style: circle;
     text-underline-offset: 4px;
@@ -21,17 +21,15 @@
 
 .header__logo {
     display: block;
-}
-
-.header__logo-image {
-    height: 148px;
-    width: 105px;
+    justify-self: center;
+    align-self: center;
+    width: 144px;
 }
 
 .header__address {
     font-size: 18px;
     font-style: normal;
-    padding-left: 131px;
+    padding-left: 154px;
     line-height: 24px;
     text-underline-offset: 3px;
 }
@@ -194,7 +192,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    justify-content: space-between; 
+    justify-content: space-between;
 }
 
 .card_type_book {
@@ -261,6 +259,7 @@
     width: 1052px;
     height: 595px;
     margin: 0 auto;
+    gap: 72px;
 }
 
 .about__column {
@@ -282,7 +281,7 @@
     width: 240px;
     height: 240px;
     margin-left: 47px;
-    margin-top: 37px;
+    margin-top: 34px;
 }
 
 .about__logo-image {
@@ -296,7 +295,7 @@
     flex-direction: column;
     width: 693px;
     height: 449px;
-    margin-top: 138px;
+    margin-top: 135px;
 }
 
 .about__title {
