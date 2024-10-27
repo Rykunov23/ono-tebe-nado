@@ -4,7 +4,6 @@
     justify-items: center;
     align-items: center;
     padding: 92px 24px 92px 24px;
-    
 }
 
 .header__links-list {
@@ -68,7 +67,6 @@
     font-size: 100px;
     font-weight: 700;
     line-height: 115px;
-    
 }
 
 .aligned-text {
@@ -116,7 +114,6 @@
     text-align: center;
     text-transform: uppercase;
     padding-left: 40px;
-   
 }
 
 .bet-button {
@@ -150,7 +147,6 @@
     display: flex;
     gap: 23px;
     list-style-type: none;
-    
 }
 
 .lots__card-list-item {
@@ -182,7 +178,6 @@
     color: white;
     text-decoration: underline;
     text-transform: uppercase;
-    
 }
 
 .card__text {
@@ -215,7 +210,6 @@
     background-position: center;
     background-size: cover;
     justify-content: space-between;
-    
 }
 
 .card__title-film {
@@ -267,7 +261,6 @@
     width: 1052px;
     height: 595px;
     margin: 0 auto;
-
 }
 
 .about__column {
